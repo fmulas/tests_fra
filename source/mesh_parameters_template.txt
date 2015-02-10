@@ -1,0 +1,12 @@
+#########################################################################################################
+# PARAMETERS
+#########################################################################################################
+
+##### INPUT
+
+data_folder = genelists # where the lists of genes are, can contain an entire path
+filelist = all  #names of the input files separated by comma with no spaces, or all if entire folder
+output_folder = res_genelist  #name of the results folder
+output_file = mesh_res  #name of the resulting file
+
+update = FALSE
