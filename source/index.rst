@@ -5,13 +5,18 @@
 
 Welcome to tests's documentation!
 =================================
+These pages contain documentations for the Python code on SCC.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-
-
+   
+   utils
+   mesh
+   xls2
+   test_new_script   
+   test
 
 Indices and tables
 ==================
